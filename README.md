@@ -13,3 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- ## 🚀 About Me
+
+I'm a full stack developer...
+<a href="https://reactjs.org/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
+</a>
+<a href="https://www.w3schools.com/css/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
+</a>
+<a href="https://redux.js.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" />
+</a>
