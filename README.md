@@ -1,3 +1,4 @@
+![Hi there, I'm Kamal Lahloh 👋](./asset/Kamal-banner.png)
 ## 🚀 About Me
 Interested in Japanese language and culture, Anime, Puzzles, Drones, and Dota 2.
 currently chasing my dream to become a Full Stack Developer.
