@@ -113,7 +113,16 @@ currently chasing my dream to become a Full Stack Developer.</h3>
 <details open >
 <summary><h2>📊 Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/kamallahloh?logo=GitHub&style=for-the-badge)](https://github.com/kamallahloh) &nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/kamallahloh?logo=github&style=for-the-badge)](https://github.com/kamallahloh) &nbsp;
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
+
+</div>
+
+<h3>🔥 Streak Stats</h3>
+
 <div  align="center">
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -121,7 +130,7 @@ currently chasing my dream to become a Full Stack Developer.</h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamallahloh&theme=monokai-metallian&hide_border=true&exclude_days=Fri" alt="Kamallahloh's GitHub Streak" /></a>
 </div>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3>💻 Profile Stats</h3>
 <div  align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kamallahloh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kamallahloh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
