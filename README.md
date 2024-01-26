@@ -1,4 +1,4 @@
-<div style="display: flex; gap:0.25rem; justify-content:center" >
+<div style="display: flex; gap:0.25rem; justify-content:center" align="center">
 
 <!-- [<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank" rel="noopener"/>][portfolio]
 [<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" rel="noopener"/>][resume] -->
@@ -27,34 +27,6 @@ currently chasing my dream to become a Full Stack Developer.</h3>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamallahloh&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="kamallahloh stats card" /></p>
 <br/> -->
-
-<details open >
-<summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-<div  align="center">
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamallahloh&theme=monokai-metallian&hide_border=true&exclude_days=Fri" alt="Kamallahloh's GitHub Streak" /></a>
-</div>
-
-  <h3>💻 GitHub Profile Stats</h3>
-<div  align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kamallahloh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kamallahloh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kamallahloh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamallahloh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
-
-<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kamallahloh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kamallahloh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kamallahloh.kamallahloh&" alt="visitors">
-
-</div>
-
-</details>
 
 <details open >
 <summary><h1>⚒️ Skills</h1></summary>
@@ -136,6 +108,34 @@ currently chasing my dream to become a Full Stack Developer.</h3>
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 </div>
+</details>
+
+<details open >
+<summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+<div  align="center">
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamallahloh&theme=monokai-metallian&hide_border=true&exclude_days=Fri" alt="Kamallahloh's GitHub Streak" /></a>
+</div>
+
+  <h3>💻 GitHub Profile Stats</h3>
+<div  align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kamallahloh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kamallahloh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kamallahloh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamallahloh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
+
+<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kamallahloh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kamallahloh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kamallahloh.kamallahloh&" alt="visitors">
+
+</div>
+
 </details>
 
 <details open >
