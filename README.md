@@ -1,3 +1,5 @@
+![Hi there, I'm Kamal Lahloh 👋](./asset/Kamal-banner.png)
+
 <div style="display: flex; gap:0.25rem; justify-content:center" align="center">
 
 <!-- [<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank" rel="noopener"/>][portfolio]
@@ -11,8 +13,6 @@
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank" rel="noopener"/>][email]
 
 </div>
-
-![Hi there, I'm Kamal Lahloh 👋](./asset/Kamal-banner.png)
 
 <!--
 ! Portfolio
@@ -101,9 +101,9 @@ currently chasing my dream to become a Full Stack Developer.</h3>
 <summary><h2>🖥️ Workspace Setup</h2></summary>
 
 <div style="display: flex; gap: 1rem">
-<!-- ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) -->
 
+![ryzen5-5500u](https://img.shields.io/badge/Ryzen%205-%205500U-ED1B24?style=for-the-badge&logo=AMD)
+![radeon-rx640](https://img.shields.io/badge/Radeon-%20RX%20640-ED1B24?style=for-the-badge&logo=AMD)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
