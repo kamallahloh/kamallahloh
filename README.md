@@ -159,6 +159,7 @@ currently chasing my dream to become a Full Stack Developer.</h3>
 [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to]
 [<img alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" target="_blank" rel="noopener"/>][codewars]
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noopener"/>][twitter]
+[<img alt="@Kamal_Lahloh" src="https://img.shields.io/badge/@Kamal_Lahloh-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener"/>][github]
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener"/>][email]
 
@@ -172,5 +173,6 @@ currently chasing my dream to become a Full Stack Developer.</h3>
 [dev.to]: https://dev.to/kamallahloh
 [codewars]: https://www.codewars.com/users/kamallahloh
 [twitter]: https://twitter.com/Kamal_Lahloh
+[X]: https://x.com/Kamal_Lahloh
 [github]: https://github.com/kamallahloh?tab=follow
 [email]: mailto:kamal.lahloh@gmail.com
