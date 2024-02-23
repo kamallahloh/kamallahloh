@@ -72,7 +72,7 @@ currently chasing my dream to become a Full Stack Developer.</h3>
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
+![image](https://img.shields.io/badge/JSON-A9BA9D?style=for-the-badge&logo=json&logoColor=white)
 
 </div>
 
@@ -101,13 +101,16 @@ currently chasing my dream to become a Full Stack Developer.</h3>
 
 </div>
 
-<!-- ### Testing
+### Testing and Version control
 
 <div style="display: flex; gap: 0.25rem">
 
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+<!-- ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 
-</div> -->
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div> 
 </details>
 
 <details open >
@@ -174,6 +177,12 @@ currently chasing my dream to become a Full Stack Developer.</h3>
 [<img alt="@Kamal_Lahloh" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener"/>][github]
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener"/>][email]
+
+</div>
+
+<div>
+
+### never hesitate to call me on 📞 +962 777 3 111 50 📞
 
 </div>
 </details>
