@@ -18,9 +18,16 @@
 
 ## 🚀 About Me
 
+<a href="https://www.dropbox.com/scl/fi/m7kqys7q3azcy8ogzb30l/Full-Stack-Dev.-Kamal-Lahloh-Resume.pdf?rlkey=a5n034da5lg6z3s5iezxyeiz2&dl=0">Resume folder on Dropbox</a>.
+
 <h3>
-Interested in Japanese language and culture, Anime, Mechanical Puzzles, Drones, and Dota 2.<br/><br/>
-currently chasing my dream to become a Full Stack Developer.</h3>
+For more details see my <a href="https://www.dropbox.com/scl/fi/m7kqys7q3azcy8ogzb30l/Full-Stack-Dev.-Kamal-Lahloh-Resume.pdf?rlkey=a5n034da5lg6z3s5iezxyeiz2&dl=0">Resume</a>.
+<br/><br/>
+A graduate from <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a>, during that I was a Scrum master in <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
+<br/><br/>
+I'm interested in Japanese language and culture, Anime, Mechanical Puzzles, Drones, and Dota 2.<br/><br/>
+currently chasing my dream to become a Full Stack Developer.
+</h3>
 <p>&nbsp;
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamallahloh&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="kamallahloh stats card" /></p>
 <p>
