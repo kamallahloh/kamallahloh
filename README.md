@@ -16,28 +16,81 @@
 
 ### <samp>&gt; Hi there, I'm <a href="https://github.com/kamallahloh" target="_blank">Kamal Lahloh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-## 🚀 About Me
-
-<a href="https://www.dropbox.com/scl/fi/m7kqys7q3azcy8ogzb30l/Full-Stack-Dev.-Kamal-Lahloh-Resume.pdf?rlkey=a5n034da5lg6z3s5iezxyeiz2&dl=0">Resume folder on Dropbox</a>.
+## ⚡ About Me
 
 <h3>
-For more details see my <a href="https://www.dropbox.com/scl/fi/m7kqys7q3azcy8ogzb30l/Full-Stack-Dev.-Kamal-Lahloh-Resume.pdf?rlkey=a5n034da5lg6z3s5iezxyeiz2&dl=0">Resume</a>.
-<br/><br/>
 A graduate from <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a>, during that I was a Scrum master in <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
 <br/><br/>
 I'm interested in Japanese language and culture, Anime, Mechanical Puzzles, Drones, and Dota 2.<br/><br/>
 currently chasing my dream to become a Full Stack Developer.
+<br/><br/>
+For more details see my <a href="">Resume 📄</a>
+<!-- //! /////////////ADD resume link////////////////////////// -->
 </h3>
-<p>&nbsp;
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamallahloh&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="kamallahloh stats card" /></p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamallahloh&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="kamallahloh stats card" /></p>
-<br/> -->
 
 <details open >
-<summary><h1>⚒️ Skills</h1></summary>
+<summary><h2>🎯 Projects</h2></summary>
 
-### 🏎️ Programming Languages
+<div>
+<ul >
+  <li style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem">
+    <h3>• <a Style="text-decoration: none;">MetaBook</a> : </h3> 
+    <h4>PERN Stack, Social Media platform</h4>
+    <h4 >
+      <a href = "https://github.com/MetaBookTeam/MetaBook_PERN.stack_Social.Media.Platform">
+        <img 
+          style = "border-radius: 50%; border: 1px solid white;" 
+          src = "./asset/GitHub_Logo.jpg" 
+          alt = "GitHub Repo." 
+          width = 28 
+        />
+        <!-- <img 
+          style="border-radius: 50%;filter: drop-shadow(0 0 5px white);" 
+          src="./asset/GitHub_Logo.png" 
+          alt="GitHub Repo." 
+          width=25 
+        /> -->
+      </a>
+      <a href = "https://c09-metabook.netlify.app">
+        <img 
+          style = "padding: 3px; border-radius: 50%; border: 1px solid white;" 
+          src = "./asset/Netlify.png" 
+          alt = "Netlify Deploy" 
+          width = 22 
+        />
+      </a>
+    </h4>
+  </li>
+  <li style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem">
+    <h3>• <a Style="text-decoration: none;">K-Shop</a> : </h3> 
+    <h4>MERN Stack, E_Commerce website</h4>
+    <h4 >
+      <a href = "https://github.com/kamallahloh/K-Shop_Full-Stack_E-commerce-website">
+        <img 
+          style = "border-radius: 50%; border: 1px solid white;" 
+          src = "./asset/GitHub_Logo.jpg" 
+          alt = "GitHub Repo." 
+          width = 28 
+        />
+      </a>
+      <a href = "https://k-shop-mern.netlify.app">
+        <img 
+          style = "padding: 3px; border-radius: 50%; border: 1px solid white;" 
+          src = "./asset/Netlify.png" 
+          alt = "Netlify Deploy" 
+          width = 22 
+        />
+      </a>
+    </h4>
+  </li>
+</ul>
+</div>
+</details>
+
+<details open >
+<summary><h2>⚒️ Skills</h2></summary>
+
+### ♨️🔠 Programming Languages
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -45,7 +98,7 @@ currently chasing my dream to become a Full Stack Developer.
 
 </div>
 
-### 📚 Frameworks, Platforms and Libraries
+### 📚🧩 Frameworks, Platforms and Libraries
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -60,7 +113,7 @@ currently chasing my dream to become a Full Stack Developer.
 
 </div>
 
-### 🌋 Frontend Development
+### 💻🌐 Frontend Development
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -71,7 +124,7 @@ currently chasing my dream to become a Full Stack Developer.
 
 </div>
 
-### 🔥 Backend Development
+### 🖥🔙 Backend Development
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -83,13 +136,16 @@ currently chasing my dream to become a Full Stack Developer.
 
 </div>
 
-<!-- ### Backend as a Service (BaaS)
+<!-- ### Backend as a Service (BaaS) -->
+
+### ☁️🚀 Deployment platforms (cloud infrastructure)
 
 <div style="display: flex; gap: 0.25rem">
 
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/render-white?style=for-the-badge&logo=render&logoColor=45DFB4)
 
-</div> -->
+</div>
 
 <!-- ### 🖇️ Cross Platform
 
@@ -99,7 +155,7 @@ currently chasing my dream to become a Full Stack Developer.
 
 </div> -->
 
-### 📦 Database
+### 📦🗄️ Database
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -108,7 +164,7 @@ currently chasing my dream to become a Full Stack Developer.
 
 </div>
 
-### Testing and Version control
+### 🧪🔎 Testing and Version control
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -153,7 +209,7 @@ currently chasing my dream to become a Full Stack Developer.
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamallahloh&theme=monokai-metallian&hide_border=true&exclude_days=Fri" alt="Kamallahloh's GitHub Streak" /></a>
 </div>
 
-  <h3>💻 Profile Stats</h3>
+  <h3>👤 Profile Stats</h3>
 <div  align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kamallahloh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kamallahloh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
