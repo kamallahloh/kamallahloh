@@ -32,58 +32,44 @@ For more details see my <a href="">Resume 📄</a>
 <summary><h2>🎯 Projects</h2></summary>
 
 <div>
-<ul >
-  <li style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem">
-    <h3>• <a Style="text-decoration: none;">MetaBook</a> : </h3> 
-    <h4>PERN Stack, Social Media platform</h4>
-    <h4 >
-      <a href = "https://github.com/MetaBookTeam/MetaBook_PERN.stack_Social.Media.Platform">
+  <table>
+    <tr>
+    <td>METABOOK</td><td>PERN Stack, Social Media platform</td>
+      <td><a href = "https://github.com/MetaBookTeam/MetaBook_PERN.stack_Social.Media.Platform">
+        <img 
+          src = "./asset/GitHub_Logo.jpg" 
+          alt = "GitHub Repo." 
+          width = 25 
+        />
+      </a></td>
+      <td><a href = "https://c09-metabook.netlify.app">
+        <img 
+          src = "./asset/Netlify.png" 
+          alt = "Netlify Deploy" 
+          width = 25 
+        />
+      </a></td>
+    </tr>
+    <tr>
+    <td>K-SHOP</td><td>MERN Stack, E_Commerce website</td>
+      <td><a href = "https://github.com/kamallahloh/K-Shop_Full-Stack_E-commerce-website">
         <img 
           style = "border-radius: 50%; border: 1px solid white;" 
           src = "./asset/GitHub_Logo.jpg" 
           alt = "GitHub Repo." 
-          width = 28 
+          width = 25 
         />
-        <!-- <img 
-          style="border-radius: 50%;filter: drop-shadow(0 0 5px white);" 
-          src="./asset/GitHub_Logo.png" 
-          alt="GitHub Repo." 
-          width=25 
-        /> -->
-      </a>
-      <a href = "https://c09-metabook.netlify.app">
+      </a></td>
+      <td><a href = "https://k-shop-mern.netlify.app">
         <img 
           style = "padding: 3px; border-radius: 50%; border: 1px solid white;" 
           src = "./asset/Netlify.png" 
           alt = "Netlify Deploy" 
-          width = 22 
+          width = 25 
         />
-      </a>
-    </h4>
-  </li>
-  <li style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem">
-    <h3>• <a Style="text-decoration: none;">K-Shop</a> : </h3> 
-    <h4>MERN Stack, E_Commerce website</h4>
-    <h4 >
-      <a href = "https://github.com/kamallahloh/K-Shop_Full-Stack_E-commerce-website">
-        <img 
-          style = "border-radius: 50%; border: 1px solid white;" 
-          src = "./asset/GitHub_Logo.jpg" 
-          alt = "GitHub Repo." 
-          width = 28 
-        />
-      </a>
-      <a href = "https://k-shop-mern.netlify.app">
-        <img 
-          style = "padding: 3px; border-radius: 50%; border: 1px solid white;" 
-          src = "./asset/Netlify.png" 
-          alt = "Netlify Deploy" 
-          width = 22 
-        />
-      </a>
-    </h4>
-  </li>
-</ul>
+      </a></td>
+    </tr>
+  </table>
 </div>
 </details>
 
