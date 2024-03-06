@@ -37,16 +37,16 @@ For more details see my <a href="">Resume 📄</a>
     <td>METABOOK</td><td>PERN Stack, Social Media platform</td>
       <td><a href = "https://github.com/MetaBookTeam/MetaBook_PERN.stack_Social.Media.Platform">
         <img 
-          src = "./asset/GitHub_Logo.jpg" 
+          src = "./asset/GitHub_Logo_lg.jpg" 
           alt = "GitHub Repo." 
-          width = 25 
+          width = 80 
         />
       </a></td>
       <td><a href = "https://c09-metabook.netlify.app">
         <img 
-          src = "./asset/Netlify.png" 
+          src = "./asset/netlify-logo-lg.jpg" 
           alt = "Netlify Deploy" 
-          width = 25 
+          width = 80 
         />
       </a></td>
     </tr>
@@ -54,18 +54,16 @@ For more details see my <a href="">Resume 📄</a>
     <td>K-SHOP</td><td>MERN Stack, E_Commerce website</td>
       <td><a href = "https://github.com/kamallahloh/K-Shop_Full-Stack_E-commerce-website">
         <img 
-          style = "border-radius: 50%; border: 1px solid white;" 
-          src = "./asset/GitHub_Logo.jpg" 
+          src = "./asset/GitHub_Logo_lg.jpg" 
           alt = "GitHub Repo." 
-          width = 25 
+          width = 80 
         />
       </a></td>
       <td><a href = "https://k-shop-mern.netlify.app">
         <img 
-          style = "padding: 3px; border-radius: 50%; border: 1px solid white;" 
-          src = "./asset/Netlify.png" 
+          src = "./asset/netlify-logo-lg.jpg" 
           alt = "Netlify Deploy" 
-          width = 25 
+          width = 80
         />
       </a></td>
     </tr>
