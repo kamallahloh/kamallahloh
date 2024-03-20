@@ -1,5 +1,7 @@
 ![Hi there, I'm Kamal Lahloh 👋](./asset/Kamal-banner.png)
 
+<!-- [![MasterHead](./asset/Kamal-banner.png)](https://github.com/kamallahloh) -->
+
 <div style="display: flex; gap:0.25rem; justify-content:center" align="center">
 
 <!-- [<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank" rel="noopener"/>][portfolio]
@@ -24,7 +26,7 @@ A graduate from <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort
 I'm interested in Japanese language and culture, Anime, Mechanical Puzzles, Drones, and Dota 2.<br/><br/>
 currently chasing my dream to become a Full Stack Developer.
 <br/><br/>
-For more details see my <a href="">Resume 📄</a>
+For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5sqayda/Full_Stack_Dev_Kamal_Lahloh_Resume.pdf?rlkey=wxkktl1ae6rzs37db4ogcn2yt&dl=0">Resume 📄</a>
 <!-- //! /////////////ADD resume link////////////////////////// -->
 </h3>
 
