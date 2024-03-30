@@ -22,14 +22,20 @@
 
 <h3>
 A graduate from <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a>, during that I was a Scrum master in <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
-<br/><br/>
-I'm interested in Japanese language and culture, Anime, Mechanical Puzzles, Drones, and Dota 2.<br/><br/>
-currently chasing my dream to become a Full Stack Developer.
-<br/><br/>
+<br/>
+</h3>
+<h3>
+Currently Searching for job as Full Stack Developer.
+<br/>
 For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5sqayda/Full_Stack_Dev_Kamal_Lahloh_Resume.pdf?rlkey=wxkktl1ae6rzs37db4ogcn2yt&dl=0">Resume 📄</a>
-<!-- //! /////////////ADD resume link////////////////////////// -->
 </h3>
 
+<div style="display: flex; align-items: flex-end">
+<h3 style="padding-bottom:16px">I'm interested in</h3>
+
+<span style="padding-left: 6px" >[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0FEBFF&duration=2000&width=350&height=30&lines=Japanese+language+and+culture.;Anime.;Mechanical+Puzzles.;Drones.;Dota+2.)](https://git.io/typing-svg)</span>
+
+</div>
 <details open >
 <summary><h2>🎯 Projects</h2></summary>
 
@@ -208,6 +214,8 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5s
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kamallahloh.kamallahloh&" alt="visitors">
 
+![](https://komarev.com/ghpvc/?username=kamallahloh&color=blue&label=PROFILE+VIEWS)
+
 </div>
 
 </details>
@@ -229,7 +237,9 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5s
 
 </div>
 
-<div>
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### never hesitate to call me on 📞 +962 777 3 111 50 📞
 
