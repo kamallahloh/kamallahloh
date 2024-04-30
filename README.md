@@ -30,12 +30,11 @@ Currently Searching for job as Full Stack Developer.
 For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5sqayda/Full_Stack_Dev_Kamal_Lahloh_Resume.pdf?rlkey=wxkktl1ae6rzs37db4ogcn2yt&dl=0">Resume 📄</a>
 </h3>
 
-<div style="display: flex; align-items: flex-end">
-<h3 style="padding-bottom:16px">I'm interested in</h3>
 
-<span style="padding-left: 6px" >[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0FEBFF&duration=2000&width=350&height=30&lines=Japanese+language+and+culture.;Anime.;Mechanical+Puzzles.;Drones.;Dota+2.)](https://git.io/typing-svg)</span>
+<h3>I'm interested in </h3> 
 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0FEBFF&duration=2000&width=350&height=30&lines=Japanese+language+and+culture.;Anime.;Mechanical+Puzzles.;Drones.;Dota+2.)](https://git.io/typing-svg)
+
 <details open >
 <summary><h2>🎯 Projects</h2></summary>
 
@@ -213,8 +212,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5s
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kamallahloh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kamallahloh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kamallahloh.kamallahloh&" alt="visitors">
-
-![](https://komarev.com/ghpvc/?username=kamallahloh&color=blue&label=PROFILE+VIEWS)
+<!-- ![](https://komarev.com/ghpvc/?username=kamallahloh&color=blue) -->
 
 </div>
 
