@@ -21,19 +21,17 @@
 ## ⚡ About Me
 
 <h3>
-A graduate from <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a>, during that I was a Scrum master in <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
+A Software Developer at <a href="https://smartsoft-sys.com/new/">@SmartSoft</a>, and <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a> graduate, during that I was a Scrum master in <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
 <br/>
 </h3>
 <h3>
-Currently Searching for job as Full Stack Developer.
-<br/>
 For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5sqayda/Full_Stack_Dev_Kamal_Lahloh_Resume.pdf?rlkey=wxkktl1ae6rzs37db4ogcn2yt&dl=0">Resume 📄</a>
 </h3>
 
 
 <h3>I'm interested in </h3> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0FEBFF&duration=2000&width=350&height=30&lines=Japanese+language+and+culture.;Anime.;Mechanical+Puzzles.;Drones.;Dota+2.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF7E38&duration=2000&width=350&height=30&lines=Japanese+language+and+culture.;Anime.;Mechanical+Puzzles.;Drones.;Dota+2.)](https://git.io/typing-svg)
 
 <details open >
 <summary><h2>🎯 Projects</h2></summary>
