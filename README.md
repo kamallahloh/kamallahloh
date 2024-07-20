@@ -21,11 +21,11 @@
 ## ⚡ About Me
 
 <h3>
-A Software Developer at <a href="https://smartsoft-sys.com/new/">@SmartSoft</a>, and <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a> graduate, during that I was a Scrum master in <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
+A Software Developer at <a href="https://smartsoft-sys.com/new/">@SmartSoft</a>, <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a> graduate, and a Scrum master in the <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
 <br/>
 </h3>
 <h3>
-For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5sqayda/Full_Stack_Dev_Kamal_Lahloh_Resume.pdf?rlkey=wxkktl1ae6rzs37db4ogcn2yt&dl=0">Resume 📄</a>
+For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiuvxx11/AHUOF97ADWwv1ONtlMjKEi0?e=2&preview=Full_Stack_Dev_Kamal_Lahloh_Resume.pdf&rlkey=o2hpw5n3g8n9fahyln9kjcduk&st=un7c76dm&dl=0">Resume 📄</a>
 </h3>
 
 
@@ -89,7 +89,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5s
 
 </div>
 
-### 📚🧩 Frameworks, Platforms and Libraries
+### 📚🧩 Frameworks, Platform, and Libraries
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -156,7 +156,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5s
 
 </div>
 
-### 🧪🔎 Testing and Version control
+### 🧪🔎 Testing & Version control
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -169,7 +169,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5s
 </details>
 
 <details open >
-<summary><h2>🖥️ Workspace Setup</h2></summary>
+<summary><h2>🖥️ Workspace Setup & IDEs </h2></summary>
 
 <div style="display: flex; gap: 1rem">
 
@@ -183,7 +183,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/hhxd76xzbrb51c5s
 </details>
 
 <details open >
-<summary><h2>📊 Stats and Activity</h2></summary>
+<summary><h2>📊 Stats & Activity</h2></summary>
 
 <!-- <div align="center">
 
