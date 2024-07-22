@@ -9,10 +9,12 @@
 
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][linkedin]
 [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to]
-[<img alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey" target="_blank" rel="noopener"/>][codewars]
+[<img alt="codewars" src="https://img.shields.io/badge/Codewars-1d1e1a?logo=codewars&logoColor=B1361E" target="_blank" rel="noopener"/>][codewars]
 [<img alt="X" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?logo=github&logoColor=white" target="_blank" rel="noopener"/>][github]
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank" rel="noopener"/>][email]
+
+<img alt="codewarsbadge" src="https://www.codewars.com/users/kamallahloh/badges/large" target="_blank" rel="noopener"/>
 
 </div>
 
