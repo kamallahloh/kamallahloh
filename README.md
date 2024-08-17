@@ -85,7 +85,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 
 <div style="display: flex; gap: 0.25rem">
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
 ![ObjectPascal](https://img.shields.io/badge/Object_Pascal-EF8E1D?style=for-the-badge&logo=pascal&logoColor=white)
 
@@ -121,11 +121,11 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 
 <div style="display: flex; gap: 0.25rem">
 
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/JSON-A9BA9D?style=for-the-badge&logo=json&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-A9BA9D?style=for-the-badge&logo=json&logoColor=white)
 
 </div>
 
@@ -152,10 +152,10 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 
 <div style="display: flex; gap: 0.25rem">
 
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 </div>
 
 ### 🧪🔎 Testing & Version control
