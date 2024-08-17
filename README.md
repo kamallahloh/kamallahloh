@@ -6,9 +6,9 @@
 
 <!-- [<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank" rel="noopener"/>][portfolio]
 [<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" rel="noopener"/>][resume] -->
+<!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to] -->
 
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][linkedin]
-<!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to] -->
 [<img alt="codewars" src="https://img.shields.io/badge/Codewars-1d1e1a?logo=codewars&logoColor=B1361E" target="_blank" rel="noopener"/>][codewars]
 [<img alt="X" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?logo=github&logoColor=white" target="_blank" rel="noopener"/>][github]
@@ -229,9 +229,9 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 
 <!-- [<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank" rel="noopener"/>][portfolio]
 [<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" rel="noopener"/>][resume] -->
+<!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to] -->
 
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][linkedin]
-<!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to] -->
 [<img alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" target="_blank" rel="noopener"/>][codewars]
 [<img alt="@Kamal_Lahloh" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener"/>][github]
