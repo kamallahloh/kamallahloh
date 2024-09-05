@@ -31,7 +31,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 </h3>
 
 
-<h3>I'm interested in </h3> 
+<h3>I'm interested in ↴ </h3> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF7E38&duration=2000&width=350&height=30&lines=Japanese+language+and+culture.;Anime.;Mechanical+Puzzles.;Drones.;Dota+2.)](https://git.io/typing-svg)
 
