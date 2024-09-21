@@ -86,6 +86,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 <div style="display: flex; gap: 0.25rem">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
 ![ObjectPascal](https://img.shields.io/badge/Object_Pascal-EF8E1D?style=for-the-badge&logo=pascal&logoColor=white)
 
@@ -121,6 +122,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 
 <div style="display: flex; gap: 0.25rem">
 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
@@ -158,7 +160,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 </div>
 
-### 🧪🔎 Testing & Version control
+### 🧪🔎 Testing & Version control & Documentation
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -166,6 +168,8 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![openapi](https://img.shields.io/badge/openapi-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 </div> 
 </details>
