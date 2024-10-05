@@ -23,7 +23,7 @@
 ## ⚡ About Me
 
 <h3>
-A Software eloper at <a href="https://smartsoft-sys.com/new/">@SmartSoft</a>, <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a> graduate, and a Scrum master in the <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
+A Software Developer at <a href="http://www.gce.com.jo/">@GCE</a>, Ex-<a href="https://smartsoft-sys.com/new/">@SmartSoft</a>, <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a> graduate, and a Scrum master in the <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
 <br/>
 </h3>
 <h3>
