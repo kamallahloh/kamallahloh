@@ -35,7 +35,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF7E38&duration=2000&width=350&height=30&lines=Japanese+language+and+culture;ㅤㅤㅤㅤㅤㅤㅤAnime;ㅤㅤㅤMechanical+Puzzles;ㅤㅤㅤㅤㅤㅤㅤDrones;ㅤㅤㅤㅤㅤㅤㅤDota+2)](https://git.io/typing-svg)
 
-<details open >
+<details>
 <summary><h2>🎯 Projects</h2></summary>
 
 <div>
@@ -255,7 +255,8 @@ For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiu
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### never hesitate to call me on 📞 +962 777 3 111 50 📞
+### never hesitate to call me on 
+### 📞 +962 777 3 111 50 📞
 
 </div>
 </details>
