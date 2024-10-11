@@ -181,13 +181,24 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 </details>
 
 <details open >
-<summary><h2>🖥️ Workspace Setup & IDEs </h2></summary>
+<summary><h2>🖥️ Workspace Setup & IDEs & Code Editors </h2></summary>
 
 <div style="display: flex; gap: 1rem">
 
+
+![Work](https://img.shields.io/badge/Work:-white?style=for-the-badge&logo=Work&logoColor=45DFB4) 
+![Lenovo-ThinkPadE14](https://img.shields.io/badge/lenovo-ThinkPadE14-E21B12?style=for-the-badge&logo=lenovo&logoColor=white) 
+![Intel-i7_10Gen_10510U](https://img.shields.io/badge/Intel-i7_10th%20Gen_10510U-0875C7?style=for-the-badge&logo=Intel&logoColor=white)
+![radeon-rx640](https://img.shields.io/badge/Radeon-%20RX%20640-ED1B24?style=for-the-badge&logo=AMD)
+
+![Home](https://img.shields.io/badge/Home:-white?style=for-the-badge&logo=Home&logoColor=45DFB4)
+![Acer-Aspire5](https://img.shields.io/badge/Acer-Aspire%205-87BA21?style=for-the-badge&logo=Acer&logoColor=white) 
 ![ryzen5-5500u](https://img.shields.io/badge/Ryzen%205-%205500U-ED1B24?style=for-the-badge&logo=AMD)
 ![radeon-rx640](https://img.shields.io/badge/Radeon-%20RX%20640-ED1B24?style=for-the-badge&logo=AMD)
+
+![IDEs](https://img.shields.io/badge/IDEs%20:-white?style=for-the-badge&logo=IDEs&logoColor=45DFB4)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
 
