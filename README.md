@@ -23,11 +23,11 @@
 ## ⚡ About Me
 
 <h3>
-A Software Developer at <a href="http://www.gce.com.jo/">@GCE</a>, Ex-<a href="https://smartsoft-sys.com/new/">@SmartSoft</a>, <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a> graduate, and a Scrum master in the <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
+A Software Developer at <a href="http://www.gce.com.jo/">@GCE</a>, <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a> graduate, and a Scrum master in the <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
 <br/>
 </h3>
 <h3>
-For more details see my <a href="https://www.dropbox.com/scl/fo/jk0glisxeldv9uiuvxx11/AHUOF97ADWwv1ONtlMjKEi0?e=2&preview=Full_Stack_Dev_Kamal_Lahloh_Resume.pdf&rlkey=o2hpw5n3g8n9fahyln9kjcduk&st=un7c76dm&dl=0">Resume 📄</a>
+For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7yobgs/Kamal-Lahloh-Resume.pdf?rlkey=jl2lp1m7cb0r4ogbr61s5n34t&st=la818ieh&dl=0">Resume 📄</a>
 </h3>
 
 
