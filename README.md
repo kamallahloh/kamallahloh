@@ -222,7 +222,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamallahloh&theme=monokai-metallian&hide_border=true&exclude_days=Fri" alt="Kamallahloh's GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamallahloh&theme=monokai-metallian&hide_border=true&exclude_days=Fri,Sat" alt="Kamallahloh's GitHub Streak" /></a>
 </div>
 
   <h3>👤 Profile Stats</h3>
