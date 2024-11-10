@@ -85,26 +85,27 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 <div style="display: flex; gap: 0.25rem">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
 ![ObjectPascal](https://img.shields.io/badge/Object_Pascal-EF8E1D?style=for-the-badge&logo=pascal&logoColor=white)
 
 </div>
 
-### 📚🧩 Frameworks, Platform, and Libraries
+### 📚🧩 Frameworks & Libraries
 
 <div style="display: flex; gap: 0.25rem">
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React-Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite.js](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
@@ -112,13 +113,10 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 <div style="display: flex; gap: 0.25rem">
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
@@ -126,13 +124,13 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 <div style="display: flex; gap: 0.25rem">
 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-A9BA9D?style=for-the-badge&logo=json&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 </div>
 
@@ -156,17 +154,17 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 </div> -->
 
-### 📦🗄️ Database
+### 💾🗄️ Database
 
 <div style="display: flex; gap: 0.25rem">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 </div>
 
-### 🧪🔎 Version control & Documentation & Testing & Validation
+### 🔀📝 Version control & Documentation
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -175,9 +173,20 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![openapi](https://img.shields.io/badge/openapi-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/openapi-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+</div> 
+
+### 🧪🔎 Testing & Validation
+
+<div style="display: flex; gap: 0.25rem">
+
+<!-- ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JSON](https://img.shields.io/badge/JSON-A9BA9D?style=for-the-badge&logo=json&logoColor=white)
 
 </div> 
 </details>
@@ -191,17 +200,17 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 ![Work](https://img.shields.io/badge/Work:-white?style=for-the-badge&logo=Work&logoColor=45DFB4) 
 ![Lenovo-ThinkPadE14](https://img.shields.io/badge/lenovo-ThinkPadE14-E21B12?style=for-the-badge&logo=lenovo&logoColor=white) 
 ![Intel-i7_10Gen_10510U](https://img.shields.io/badge/Intel-i7_10th%20Gen_10510U-0875C7?style=for-the-badge&logo=Intel&logoColor=white)
-![radeon-rx640](https://img.shields.io/badge/Radeon-%20RX%20640-ED1B24?style=for-the-badge&logo=AMD)
+![Radeon-RX640](https://img.shields.io/badge/Radeon-%20RX%20640-ED1B24?style=for-the-badge&logo=AMD)
 
 ![Home](https://img.shields.io/badge/Home:-white?style=for-the-badge&logo=Home&logoColor=45DFB4)
 ![Acer-Aspire5](https://img.shields.io/badge/Acer-Aspire%205-87BA21?style=for-the-badge&logo=Acer&logoColor=white) 
-![ryzen5-5500u](https://img.shields.io/badge/Ryzen%205-%205500U-ED1B24?style=for-the-badge&logo=AMD)
-![radeon-rx640](https://img.shields.io/badge/Radeon-%20RX%20640-ED1B24?style=for-the-badge&logo=AMD)
+![Ryzen5-5500u](https://img.shields.io/badge/Ryzen%205-%205500U-ED1B24?style=for-the-badge&logo=AMD)
+![Radeon-RX640](https://img.shields.io/badge/Radeon-%20RX%20640-ED1B24?style=for-the-badge&logo=AMD)
 
 ![IDEs](https://img.shields.io/badge/IDEs%20:-white?style=for-the-badge&logo=IDEs&logoColor=45DFB4)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Windows-11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Visual-Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS-Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
 
 </div>
@@ -277,13 +286,13 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 <!-- [portfolio]:
 [resume]:  -->
 
-[linkedin]: https://www.linkedin.com/in/kamal-lahloh/
-[dev.to]: https://dev.to/kamallahloh
-[codewars]: https://www.codewars.com/users/kamallahloh
+[LinkedIn]: https://www.linkedin.com/in/kamal-lahloh/
+[Dev.to]: https://dev.to/kamallahloh
+[Codewars]: https://www.codewars.com/users/kamallahloh
 
 <!-- [twitter]: https://twitter.com/Kamal_Lahloh -->
 <!-- [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noopener"/>][twitter] -->
 
 [X]: https://x.com/Kamal_Lahloh
-[github]: https://github.com/kamallahloh?tab=follow
-[email]: mailto:kamal.lahloh@gmail.com
+[Github]: https://github.com/kamallahloh?tab=follow
+[Email]: mailto:kamal.lahloh@gmail.com
