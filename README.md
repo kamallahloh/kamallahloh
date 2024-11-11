@@ -298,4 +298,4 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 [X]: https://x.com/Kamal_Lahloh
 [Github]: https://github.com/kamallahloh?tab=follow
 [Email]: mailto:kamal.lahloh@gmail.com
-[Slack]: https://kamal-lahloh.slack.com/
+[Slack]: https://join.slack.com/t/kamal-lahloh/shared_invite/zt-2u7we4z9f-8pi3jPdF0xnfIroM69QonQ
