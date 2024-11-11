@@ -8,11 +8,12 @@
 [<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" rel="noopener"/>][resume] -->
 <!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to] -->
 
-[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][linkedin]
-[<img alt="codewars" src="https://img.shields.io/badge/Codewars-1d1e1a?logo=codewars&logoColor=B1361E" target="_blank" rel="noopener"/>][codewars]
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][Linkedin]
+[<img alt="codewars" src="https://img.shields.io/badge/Codewars-1d1e1a?logo=codewars&logoColor=B1361E" target="_blank" rel="noopener"/>][Codewars]
 [<img alt="X" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?logo=github&logoColor=white" target="_blank" rel="noopener"/>][github]
-[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank" rel="noopener"/>][email]
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?logo=github&logoColor=white" target="_blank" rel="noopener"/>][Github]
+[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank" rel="noopener"/>][Email]
+[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" target="_blank" rel="noopener"/>][Slack]
 
 <img alt="codewarsbadge" src="https://www.codewars.com/users/kamallahloh/badges/large" target="_blank" rel="noopener"/>
 
@@ -265,11 +266,12 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 [<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" rel="noopener"/>][resume] -->
 <!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to] -->
 
-[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][linkedin]
-[<img alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" target="_blank" rel="noopener"/>][codewars]
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][Linkedin]
+[<img alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" target="_blank" rel="noopener"/>][Codewars]
 [<img alt="@Kamal_Lahloh" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener"/>][github]
-[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener"/>][email]
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener"/>][Github]
+[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener"/>][Email]
+[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank" rel="noopener"/>][Slack]
 
 </div>
 
@@ -296,3 +298,4 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 [X]: https://x.com/Kamal_Lahloh
 [Github]: https://github.com/kamallahloh?tab=follow
 [Email]: mailto:kamal.lahloh@gmail.com
+[Slack]: https://kamal-lahloh.slack.com/
