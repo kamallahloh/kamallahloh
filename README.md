@@ -290,7 +290,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 <!-- [portfolio]:
 [resume]:  -->
 
-[WhatsApp]: wa.me/962777311150
+[WhatsApp]: https://wa.me/962777311150
 [LinkedIn]: https://www.linkedin.com/in/kamal-lahloh/
 [Dev.to]: https://dev.to/kamallahloh
 [Codewars]: https://www.codewars.com/users/kamallahloh
