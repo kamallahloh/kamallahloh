@@ -8,6 +8,7 @@
 [<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" rel="noopener"/>][resume] -->
 <!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to] -->
 
+[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" target="_blank" rel="noopener"/>][WhatsApp]
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][Linkedin]
 [<img alt="codewars" src="https://img.shields.io/badge/Codewars-1d1e1a?logo=codewars&logoColor=B1361E" target="_blank" rel="noopener"/>][Codewars]
 [<img alt="X" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
@@ -28,7 +29,7 @@ A Software Developer at <a href="http://www.gce.com.jo/">@GCE</a>, <a href="http
 <br/>
 </h3>
 <h3>
-For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7yobgs/Kamal-Lahloh-Resume.pdf?rlkey=jl2lp1m7cb0r4ogbr61s5n34t&st=la818ieh&dl=0">Resume 📄</a>
+For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7yobgs/Kamal-Lahloh-Resume.pdf?rlkey=jl2lp1m7cb0r4ogbr61s5n34t&st=la818ieh&dl=0" target="_blank" rel="noopener">Resume 📄</a>
 </h3>
 
 
@@ -266,6 +267,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 [<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" rel="noopener"/>][resume] -->
 <!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to] -->
 
+[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel="noopener"/>][WhatsApp]
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][Linkedin]
 [<img alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" target="_blank" rel="noopener"/>][Codewars]
 [<img alt="@Kamal_Lahloh" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
@@ -288,6 +290,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 <!-- [portfolio]:
 [resume]:  -->
 
+[WhatsApp]: wa.me/962777311150
 [LinkedIn]: https://www.linkedin.com/in/kamal-lahloh/
 [Dev.to]: https://dev.to/kamallahloh
 [Codewars]: https://www.codewars.com/users/kamallahloh
