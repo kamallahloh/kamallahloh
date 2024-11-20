@@ -1,24 +1,19 @@
 ![Hi there, I'm Kamal Lahloh 👋](./asset/Kamal-banner.png)
-
-<!-- [![MasterHead](./asset/Kamal-banner.png)](https://github.com/kamallahloh) -->
-
 <div style="display: flex; gap:0.25rem; justify-content:center" align="center">
+  
+<sub>_(Hold **Ctrl** or **Cmd** on Mac and click to open in a new tab)_</sub>
 
-<!-- [<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank" rel="noopener"/>][portfolio]
-[<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" rel="noopener"/>][resume] -->
-<!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to] -->
+[<img alt="Resume" src="https://img.shields.io/badge/Resume-white?logo=readthedocs&logoColor=black"/>][Resume]
+[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>][Email]
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>][Linkedin]
+[<img alt="codewars" src="https://img.shields.io/badge/Codewars-1d1e1a?logo=codewars&logoColor=B1361E"/>][Codewars]
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?logo=github&logoColor=white"/>][Github]
+[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>][WhatsApp]
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/>][Telegram]
+[<img alt="X" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?logo=X&logoColor=white"/>][X]
+[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>][Slack]
 
-[<img alt="Resume" src="https://img.shields.io/badge/Resume-white?logo=readthedocs&logoColor=black" target="_blank" rel="noopener"/>][Resume]
-[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank" rel="noopener"/>][Email]
-[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][Linkedin]
-[<img alt="codewars" src="https://img.shields.io/badge/Codewars-1d1e1a?logo=codewars&logoColor=B1361E" target="_blank" rel="noopener"/>][Codewars]
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?logo=github&logoColor=white" target="_blank" rel="noopener"/>][Github]
-[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" target="_blank" rel="noopener"/>][WhatsApp]
-[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" target="_blank" rel="noopener"/>][Telegram]
-[<img alt="X" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
-[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" target="_blank" rel="noopener"/>][Slack]
-
-<img alt="codewarsbadge" src="https://www.codewars.com/users/kamallahloh/badges/large" target="_blank" rel="noopener"/>
+<img alt="codewarsbadge" src="https://www.codewars.com/users/kamallahloh/badges/large"/>
 
 </div>
 
@@ -31,7 +26,7 @@ A Software Developer at <a href="http://www.gce.com.jo/">@GCE</a>, <a href="http
 <br/>
 </h3>
 <h3>
-For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7yobgs/Kamal-Lahloh-Resume.pdf?rlkey=jl2lp1m7cb0r4ogbr61s5n34t&st=la818ieh&dl=0" target="_blank" rel="noopener">Resume 📄</a>
+For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7yobgs/Kamal-Lahloh-Resume.pdf?rlkey=jl2lp1m7cb0r4ogbr61s5n34t&st=la818ieh&dl=0">Resume 📄</a>
 </h3>
 
 
@@ -265,19 +260,19 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 <div style="display: flex; gap:0.25rem">
 
-<!-- [<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank" rel="noopener"/>][portfolio]
-[<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" rel="noopener"/>][resume] -->
-<!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white" target="_blank" rel="noopener"/>][dev.to] -->
+<!-- [<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white"/>][portfolio]
+[<img alt="resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>][resume] -->
+<!-- [<img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white"/>][dev.to] -->
 
-[<img alt="Resume" src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readthedocs&logoColor=black" target="_blank" rel="noopener"/>][Resume]
-[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener"/>][Email]
-[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"/>][Linkedin]
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener"/>][Github]
-[<img alt="codewars" src="https://img.shields.io/badge/Codewars-1d1e1a?style=for-the-badge&logo=codewars&logoColor=B1361E" target="_blank" rel="noopener"/>][Codewars]
-[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel="noopener"/>][WhatsApp]
-[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" rel="noopener"/>][Telegram]
-[<img alt="@Kamal_Lahloh" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" rel="noopener"/>][X]
-[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank" rel="noopener"/>][Slack]
+[<img alt="Resume" src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readthedocs&logoColor=black"/>][Resume]
+[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][Email]
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>][Github]
+[<img alt="codewars" src="https://img.shields.io/badge/Codewars-1d1e1a?style=for-the-badge&logo=codewars&logoColor=B1361E"/>][Codewars]
+[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][WhatsApp]
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>][Telegram]
+[<img alt="@Kamal_Lahloh" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>][X]
+[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>][Slack]
 
 </div>
 
@@ -299,7 +294,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 [Codewars]: https://www.codewars.com/users/kamallahloh
 
 <!-- [twitter]: https://twitter.com/Kamal_Lahloh -->
-<!-- [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noopener"/>][twitter] -->
+<!-- [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter] -->
 
 [X]: https://x.com/Kamal_Lahloh
 [Github]: https://github.com/kamallahloh?tab=follow
