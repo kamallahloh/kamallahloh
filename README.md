@@ -1,4 +1,4 @@
-![Hi there, I'm Kamal Lahloh 👋](./asset/Kamal-banner.png)
+![banner](./asset/Kamal-banner.png)
 <div style="display: flex; gap:0.25rem; justify-content:center" align="center">
   
 <sub>_(Hold **Ctrl** or **Cmd** on Mac and click to open in a new tab)_</sub>
@@ -17,9 +17,7 @@
 
 </div>
 
-### <samp>&gt; Hi there, I'm <a href="https://github.com/kamallahloh" target="_blank">Kamal Lahloh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-
-## ⚡ About Me
+<h2>⚡ Hi there, I'm <a href="https://github.com/kamallahloh" target="_blank">Kamal Lahloh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50"></h2>
 
 <h3>
 A Software Developer at <a href="https://www.linkedin.com/company/general-computers-and-electronics-co/">@GCE</a>, <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a> graduate, and a Scrum master in the <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
