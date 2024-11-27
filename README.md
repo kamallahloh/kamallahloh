@@ -42,14 +42,14 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
       <td><a href = "https://github.com/MetaBookTeam/MetaBook_PERN.stack_Social.Media.Platform">
         <img 
           src = "./asset/GitHub_Logo_lg.jpg" 
-          alt = "GitHub Repo." 
+          alt = "METABOOK GitHub Repo." 
           width = 80 
         />
       </a></td>
       <td><a href = "https://c09-metabook.netlify.app">
         <img 
           src = "./asset/netlify-logo-lg.jpg" 
-          alt = "Netlify Deploy" 
+          alt = "METABOOK Netlify Deploy" 
           width = 80 
         />
       </a></td>
@@ -59,19 +59,24 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
       <td><a href = "https://github.com/kamallahloh/K-Shop_Full-Stack_E-commerce-website">
         <img 
           src = "./asset/GitHub_Logo_lg.jpg" 
-          alt = "GitHub Repo." 
+          alt = "K-SHOP GitHub Repo." 
           width = 80 
         />
       </a></td>
       <td><a href = "https://k-shop-mern.netlify.app">
         <img 
           src = "./asset/netlify-logo-lg.jpg" 
-          alt = "Netlify Deploy" 
+          alt = "K-SHOP Netlify Deploy" 
           width = 80
         />
       </a></td>
     </tr>
   </table>
+
+  [![METABOOK](https://img.youtube.com/vi/j69a7CHLhV0/hqdefault.jpg)](https://www.youtube.com/watch?v=j69a7CHLhV0)
+  <!--[![METABOOK](https://img.youtube.com/vi/j69a7CHLhV0/maxresdefault.jpg)](https://www.youtube.com/watch?v=j69a7CHLhV0)-->
+
+  [![K-SHOP](https://img.youtube.com/vi/rt4oTBR1j5Q/hqdefault.jpg)](https://www.youtube.com/watch?v=rt4oTBR1j5Q)
 </div>
 </details>
 
