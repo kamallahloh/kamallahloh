@@ -219,7 +219,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 </details>
 
 <details open >
-<summary><h2>📊 Stats & Activity</h2></summary>
+<summary><h2>📊 Stats & Activities </h2></summary>
 
 <!-- <div align="center">
 
@@ -233,12 +233,12 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 <div  align="center">
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamallahloh&theme=monokai-metallian&hide_border=true&exclude_days=Fri,Sat" alt="Kamallahloh's GitHub Streak" /></a>
 </div>
 
-  <h3>👤 Profile Stats</h3>
+<h3>👤 Profile Stats</h3>
 <div  align="center">
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kamallahloh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kamallahloh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>-->
@@ -247,12 +247,98 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kamallahloh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamallahloh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
-<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kamallahloh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kamallahloh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kamallahloh.kamallahloh&" alt="visitors">
 <!-- ![](https://komarev.com/ghpvc/?username=kamallahloh&color=blue) -->
+
+</div>
+
+<h3>🪄 Activities</h3>
+
+<div  align="center">
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C464%20hrs%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-702-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 251.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 199 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 29 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.40 % 
+🌃 Evening                1355 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌙 Night                  625 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sunday                   944 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+TypeScript               31 hrs 50 mins      █████████████████████░░░░   83.99 % 
+SCSS                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+CSS                      37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+
+🔥 Editors: 
+WebStorm                 37 hrs 53 mins      █████████████████████████   99.97 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Operating System: 
+Mac                      37 hrs 54 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+```
+
+
+
+
+ Last Updated on 11/12/2024 00:33:12 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 </div>
 
