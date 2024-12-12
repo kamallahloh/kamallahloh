@@ -256,6 +256,9 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </details>
 
 <details open >
