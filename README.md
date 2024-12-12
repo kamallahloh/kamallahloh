@@ -261,7 +261,78 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 <div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2023%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,851 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+🌆 Daytime                183 commits         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+🌃 Evening                407 commits         ████████████░░░░░░░░░░░░░   47.22 % 
+🌙 Night                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   159 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Tuesday                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Wednesday                165 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Thursday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Friday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Saturday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Amman
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               9 repos             ███████████████░░░░░░░░░░   60.00 % 
+C#                       3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/kamallahloh/kamallahloh/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/12/2024 09:59:31 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
