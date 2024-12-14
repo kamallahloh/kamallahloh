@@ -261,15 +261,13 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 <div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,853 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -304,16 +302,28 @@ Sunday                   113 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.58 % 
+Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+CSHTML                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Binary                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   3 hrs 41 mins       █████████████████░░░░░░░░   66.52 % 
+Visual Studio            1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+VS Code                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Edge                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Excel                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gcekroka                 2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   44.54 % 
+kamallahloh              1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+GCE.Ekroka               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+ssms-wakatime            18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Boggle                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -332,7 +342,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kamallahloh/kamallahloh/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2024 01:05:58 UTC
+ Last Updated on 14/12/2024 01:03:03 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
