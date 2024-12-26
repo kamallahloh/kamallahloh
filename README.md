@@ -385,7 +385,7 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 
 </details>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kamallahloh/kamallahloh/blob/output/github-contribution-grid-snake.svg)
 
 <!--[portfolio]:-->
 
