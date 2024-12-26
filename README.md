@@ -385,6 +385,8 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 
 </details>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <!--[portfolio]:-->
 
 [Resume]: https://www.dropbox.com/scl/fi/zqcn8s13r63132d7yobgs/Kamal-Lahloh-Resume.pdf?rlkey=jl2lp1m7cb0r4ogbr61s5n34t&st=la818ieh&dl=0
