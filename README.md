@@ -108,6 +108,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite.js](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
 </div>
 
@@ -119,6 +120,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-white.svg?style=for-the-badge&logo=WebAssembly&logoColor=654FF0)
 
 </div>
 
@@ -384,8 +386,6 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 </div>
 
 </details>
-
-![Snake animation](https://github.com/kamallahloh/kamallahloh/blob/output/github-contribution-grid-snake.svg)
 
 <!--[portfolio]:-->
 
