@@ -89,30 +89,29 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
 ![ObjectPascal](https://img.shields.io/badge/Object_Pascal-EF8E1D?style=for-the-badge&logo=pascal&logoColor=white)
 
 </div>
 
-### 📚🧩 Frameworks & Libraries
+### 📚🧩 Frameworks & Libraries (Frontend & Full-Stack)
 
 <div style="display: flex; gap: 0.25rem">
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![React Context API](https://img.shields.io/badge/React%20Context%20API-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite.js](https://img.shields.io/badge/Vite.js-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
 </div>
 
-### 💻🌐 Frontend Development
+### 💻🎨 Frontend Technologies
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -124,23 +123,31 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 </div>
 
-### 🖥🔙 Backend Development
+### 🔙🧠 Backend & Server-Side Development
 
 <div style="display: flex; gap: 0.25rem">
 
-![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 </div>
 
-<!-- ### Backend as a Service (BaaS) -->
+### 📨🔄 Messaging & Queuing
 
-### ☁️🚀 Deployment platforms (cloud infrastructure)
+<div style="display: flex; gap: 0.25rem">
+
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<!-- Kafka -->
+
+</div>
+
+### ☁️🚀 Cloud & Deployment Platforms
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -158,7 +165,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 </div> -->
 
-### 💾🗄️ Database
+### 💾🗄️ Databases & Data Storage
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -166,14 +173,24 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-0052CC?style=for-the-badge&logo=minio&logoColor=white)
+![Typesense](https://img.shields.io/badge/Typesense-FF5B00?style=for-the-badge&logo=typesense&logoColor=white)
+
+</div>
+
+### 📦🔧 DevOps, CI/CD & Containerization
+
+<div style="display: flex; gap: 0.25rem">
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 ### 🔀📝 Version control & Documentation
 
 <div style="display: flex; gap: 0.25rem">
-
-<!-- ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -187,11 +204,11 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 <div style="display: flex; gap: 0.25rem">
 
 <!-- ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![JSON](https://img.shields.io/badge/JSON-A9BA9D?style=for-the-badge&logo=json&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-%236332DA?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div> 
 </details>
@@ -214,6 +231,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 ![IDEs](https://img.shields.io/badge/IDEs%20:-white?style=for-the-badge&logo=IDEs&logoColor=45DFB4)
 ![Windows-11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![Visual-Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS-Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
