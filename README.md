@@ -11,7 +11,7 @@
 [<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>][WhatsApp]
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/>][Telegram]
 [<img alt="X" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?logo=X&logoColor=white"/>][X]
-[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>][Slack]
+<!--[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>][Slack]-->
 
 <img alt="codewarsbadge" src="https://www.codewars.com/users/kamallahloh/badges/large"/>
 
@@ -394,7 +394,7 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 [<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][WhatsApp]
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>][Telegram]
 [<img alt="@Kamal_Lahloh" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>][X]
-[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>][Slack]
+<!--[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>][Slack]-->
 
 </div>
 
@@ -424,4 +424,4 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 [WhatsApp]: https://wa.me/962777311150
 [Telegram]: https://t.me/kamallahloh
 [Email]: mailto:kamal.lahloh@gmail.com
-[Slack]: https://join.slack.com/t/kamal-lahloh/shared_invite/zt-2u7we4z9f-8pi3jPdF0xnfIroM69QonQ
+<!--[Slack]: https://join.slack.com/t/kamal-lahloh/shared_invite/zt-2u7we4z9f-8pi3jPdF0xnfIroM69QonQ-->
