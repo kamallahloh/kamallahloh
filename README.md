@@ -108,7 +108,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![React Context API](https://img.shields.io/badge/React%20Context%20API-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite.js-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Feathers.js](https://img.shields.io/badge/Feathers.js-white?style=for-the-badge&logoColor=black)
 
 </div>
