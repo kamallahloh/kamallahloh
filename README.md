@@ -225,9 +225,9 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 
 ![Work](https://img.shields.io/badge/Work:-white?style=for-the-badge&logo=Work&logoColor=45DFB4) 
-![Lenovo-ThinkPadE14](https://img.shields.io/badge/lenovo-ThinkPadE14-E21B12?style=for-the-badge&logo=lenovo&logoColor=white) 
-![Intel-i7_10Gen_10510U](https://img.shields.io/badge/Intel-i7_10th%20Gen_10510U-0875C7?style=for-the-badge&logo=Intel&logoColor=white)
-![Radeon-RX640](https://img.shields.io/badge/Radeon-%20RX%20640-ED1B24?style=for-the-badge&logo=AMD)
+![Dell-Latitude_5540](https://img.shields.io/badge/Dell-Latitude%205540-007DB8?style=for-the-badge&logo=dell&logoColor=white) 
+![Intel-i7_13Gen_1370P](https://img.shields.io/badge/Intel-i7_13th%20Gen_1370P-0875C7?style=for-the-badge&logo=Intel&logoColor=white)
+![Intel-IrisXe](https://img.shields.io/badge/Intel-Iris%20Xe%20Graphics-0875C7?style=for-the-badge&logo=Intel&logoColor=white)
 
 ![Home](https://img.shields.io/badge/Home:-white?style=for-the-badge&logo=Home&logoColor=45DFB4)
 ![Acer-Aspire5](https://img.shields.io/badge/Acer-Aspire%205-87BA21?style=for-the-badge&logo=Acer&logoColor=white) 
