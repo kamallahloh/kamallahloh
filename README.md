@@ -1,4 +1,5 @@
-![banner](./asset/Kamal-banner.png)
+![banner](./assets/Kamal-banner.png)
+
 <div style="display: flex; gap:0.25rem; justify-content:center" align="center">
   
 <sub>_(Hold **Ctrl** or **Cmd** on Mac and click to open in a new tab)_</sub>
@@ -11,6 +12,7 @@
 [<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>][WhatsApp]
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/>][Telegram]
 [<img alt="X" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?logo=X&logoColor=white"/>][X]
+
 <!--[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>][Slack]-->
 
 <img alt="codewarsbadge" src="https://www.codewars.com/users/kamallahloh/badges/large"/>
@@ -27,10 +29,24 @@ A Software Developer at <a href="https://www.linkedin.com/company/general-comput
 For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7yobgs/Kamal-Lahloh-Resume.pdf?rlkey=jl2lp1m7cb0r4ogbr61s5n34t&st=la818ieh&dl=0">Resume 📄</a>
 </h3>
 
-
-<h3>I'm interested in ↴ </h3> 
+<h3>I'm interested in ↴ </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF7E38&duration=2000&width=350&height=30&lines=Japanese+language+and+culture;ㅤㅤㅤMechanical+Puzzles;ㅤㅤㅤㅤㅤㅤㅤDrones;ㅤㅤㅤㅤㅤㅤ3D+Printing;ㅤㅤㅤㅤㅤㅤㅤAnime;ㅤㅤㅤㅤㅤㅤㅤDota+2)](https://git.io/typing-svg)
+
+<details open>
+<summary><h2>📜 Certificates</h2></summary>
+
+<div style="display: flex; gap: 0.25rem">
+
+<a href="https://www.credly.com/badges/8ecdf6db-f85d-4098-84f7-e649320140a4" target="_blank">
+  <img src="./assets/aws-saa-c03.png" width="150" alt="AWS Solutions Architect Associate" />
+</a>
+
+<a href="https://www.credly.com/badges/7c14b912-764a-4c22-a6da-9b6814b5aadc" target="_blank">
+  <img src="./assets/aws-clf-c02.png" width="150" alt="AWS Cloud Practitioner" />
+</a>
+</div>
+</details>
 
 <details>
 <summary><h2>🎯 Projects</h2></summary>
@@ -41,14 +57,14 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
     <td>METABOOK</td><td>PERN Stack, Social Media platform</td>
       <td><a href = "https://github.com/MetaBookTeam/MetaBook_PERN.stack_Social.Media.Platform">
         <img 
-          src = "./asset/GitHub_Logo_lg.jpg" 
+          src = "./assets/GitHub_Logo_lg.jpg" 
           alt = "METABOOK GitHub Repo." 
           width = 80 
         />
       </a></td>
       <td><a href = "https://c09-metabook.netlify.app">
         <img 
-          src = "./asset/netlify-logo-lg.jpg" 
+          src = "./assets/netlify-logo-lg.jpg" 
           alt = "METABOOK Netlify Deploy" 
           width = 80 
         />
@@ -58,14 +74,14 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
     <td>K-SHOP</td><td>MERN Stack, E_Commerce website</td>
       <td><a href = "https://github.com/kamallahloh/K-Shop_Full-Stack_E-commerce-website">
         <img 
-          src = "./asset/GitHub_Logo_lg.jpg" 
+          src = "./assets/GitHub_Logo_lg.jpg" 
           alt = "K-SHOP GitHub Repo." 
           width = 80 
         />
       </a></td>
       <td><a href = "https://k-shop-mern.netlify.app">
         <img 
-          src = "./asset/netlify-logo-lg.jpg" 
+          src = "./assets/netlify-logo-lg.jpg" 
           alt = "K-SHOP Netlify Deploy" 
           width = 80
         />
@@ -73,10 +89,12 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
     </tr>
   </table>
 
-  [![METABOOK](https://img.youtube.com/vi/j69a7CHLhV0/hqdefault.jpg)](https://www.youtube.com/watch?v=j69a7CHLhV0)
+[![METABOOK](https://img.youtube.com/vi/j69a7CHLhV0/hqdefault.jpg)](https://www.youtube.com/watch?v=j69a7CHLhV0)
+
   <!--[![METABOOK](https://img.youtube.com/vi/j69a7CHLhV0/maxresdefault.jpg)](https://www.youtube.com/watch?v=j69a7CHLhV0)-->
 
-  [![K-SHOP](https://img.youtube.com/vi/rt4oTBR1j5Q/hqdefault.jpg)](https://www.youtube.com/watch?v=rt4oTBR1j5Q)
+[![K-SHOP](https://img.youtube.com/vi/rt4oTBR1j5Q/hqdefault.jpg)](https://www.youtube.com/watch?v=rt4oTBR1j5Q)
+
 </div>
 </details>
 
@@ -148,6 +166,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
 <!-- Kafka -->
 
 </div>
@@ -157,6 +176,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 <div style="display: flex; gap: 0.25rem">
 
 <!--![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)-->
+
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/render-white?style=for-the-badge&logo=render&logoColor=45DFB4)
 
@@ -202,13 +222,14 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/openapi-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
-</div> 
+</div>
 
 ### 🧪🔎 Testing & Validation
 
 <div style="display: flex; gap: 0.25rem">
 
 <!-- ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -223,14 +244,13 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 
 <div style="display: flex; gap: 1rem">
 
-
-![Work](https://img.shields.io/badge/Work:-white?style=for-the-badge&logo=Work&logoColor=45DFB4) 
-![Dell-Latitude_5540](https://img.shields.io/badge/Dell-Latitude%205540-007DB8?style=for-the-badge&logo=dell&logoColor=white) 
+![Work](https://img.shields.io/badge/Work:-white?style=for-the-badge&logo=Work&logoColor=45DFB4)
+![Dell-Latitude_5540](https://img.shields.io/badge/Dell-Latitude%205540-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![Intel-i7_13Gen_1370P](https://img.shields.io/badge/Intel-i7_13th%20Gen_1370P-0875C7?style=for-the-badge&logo=Intel&logoColor=white)
 ![Intel-IrisXe](https://img.shields.io/badge/Intel-Iris%20Xe%20Graphics-0875C7?style=for-the-badge&logo=Intel&logoColor=white)
 
 ![Home](https://img.shields.io/badge/Home:-white?style=for-the-badge&logo=Home&logoColor=45DFB4)
-![Acer-Aspire5](https://img.shields.io/badge/Acer-Aspire%205-87BA21?style=for-the-badge&logo=Acer&logoColor=white) 
+![Acer-Aspire5](https://img.shields.io/badge/Acer-Aspire%205-87BA21?style=for-the-badge&logo=Acer&logoColor=white)
 ![Ryzen5-5500u](https://img.shields.io/badge/Ryzen%205-%205500U-ED1B24?style=for-the-badge&logo=AMD)
 ![Radeon-RX640](https://img.shields.io/badge/Radeon-%20RX%20640-ED1B24?style=for-the-badge&logo=AMD)
 
@@ -262,6 +282,7 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamallahloh&theme=monokai-metallian&hide_border=true&exclude_days=Fri,Sat" alt="Kamallahloh's GitHub Streak" /></a>
+
 </div>
 
 <h3>👤 Profile Stats</h3>
@@ -287,91 +308,90 @@ For more details see my <a href="https://www.dropbox.com/scl/fi/zqcn8s13r63132d7
 <div>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C026%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.95%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+>
 > 🏆 96 Contributions in the Year 2026
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 21 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                144 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.05 % 
-🌆 Daytime                188 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.49 % 
-🌃 Evening                264 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.60 % 
-🌙 Night                  88 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.87 % 
+🌞 Morning                144 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.05 %
+🌆 Daytime                188 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.49 %
+🌃 Evening                264 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.60 %
+🌙 Night                  88 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.87 %
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday                   122 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.84 % 
-Tuesday                  62 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.06 % 
-Wednesday                144 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.05 % 
-Thursday                 119 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.40 % 
-Friday                   48 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.02 % 
-Saturday                 98 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.33 % 
-Sunday                   91 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.30 % 
+Monday                   122 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.84 %
+Tuesday                  62 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.06 %
+Wednesday                144 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.05 %
+Thursday                 119 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.40 %
+Friday                   48 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.02 %
+Saturday                 98 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.33 %
+Sunday                   91 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.30 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Amman
 
-💬 Programming Languages: 
-Other                    8 hrs 32 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.30 % 
-Binary                   1 hr 51 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.17 % 
-CSHTML                   1 hr 42 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.03 % 
-C#                       47 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.61 % 
-Text                     46 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.48 % 
+💬 Programming Languages:
+Other                    8 hrs 32 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.30 %
+Binary                   1 hr 51 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.17 %
+CSHTML                   1 hr 42 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.03 %
+C#                       47 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.61 %
+Text                     46 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.48 %
 
-🔥 Editors: 
-Chrome                   8 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.57 % 
-VS Code                  2 hrs 56 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.78 % 
-Visual Studio            2 hrs 22 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.77 % 
-Notepad++                44 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.25 % 
-Rider                    5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.62 % 
+🔥 Editors:
+Chrome                   8 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.57 %
+VS Code                  2 hrs 56 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.78 %
+Visual Studio            2 hrs 22 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.77 %
+Notepad++                44 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.25 %
+Rider                    5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.62 %
 
-🐱‍💻 Projects: 
-Marshal_WS               10 hrs 18 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   72.81 % 
-Flynet.API               2 hrs 7 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.07 % 
-Unknown Project          44 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.25 % 
-AWS-Certified-Solutions-A31 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.73 % 
-Flynet.Portal            17 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.12 % 
+🐱‍💻 Projects:
+Marshal_WS               10 hrs 18 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   72.81 %
+Flynet.API               2 hrs 7 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.07 %
+Unknown Project          44 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.25 %
+AWS-Certified-Solutions-A31 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.73 %
+Flynet.Portal            17 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.12 %
 
-💻 Operating System: 
-Windows                  14 hrs 9 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+💻 Operating System:
+Windows                  14 hrs 9 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               8 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.11 % 
-C#                       7 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.84 % 
-TypeScript               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.53 % 
-Dockerfile               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.26 % 
-Python                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.26 % 
+JavaScript               8 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.11 %
+C#                       7 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.84 %
+TypeScript               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.53 %
+Dockerfile               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.26 %
+Python                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.26 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/kamallahloh/kamallahloh/main/assets/bar_graph.png)
 
+Last Updated on 01/06/2026 00:40:54 UTC
 
- Last Updated on 01/06/2026 00:40:54 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
@@ -399,6 +419,7 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 [<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][WhatsApp]
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>][Telegram]
 [<img alt="@Kamal_Lahloh" src="https://img.shields.io/badge/@Kamal__Lahloh-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>][X]
+
 <!--[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>][Slack]-->
 
 </div>
@@ -407,7 +428,8 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### never hesitate to call me on 
+### never hesitate to call me on
+
 ### 📞 +962 777 3 111 50 📞
 
 </div>
@@ -429,4 +451,5 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 [WhatsApp]: https://wa.me/962777311150
 [Telegram]: https://t.me/kamallahloh
 [Email]: mailto:kamal.lahloh@gmail.com
+
 <!--[Slack]: https://join.slack.com/t/kamal-lahloh/shared_invite/zt-2u7we4z9f-8pi3jPdF0xnfIroM69QonQ-->
