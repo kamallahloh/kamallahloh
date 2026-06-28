@@ -22,7 +22,7 @@
 <h2>⚡ Hi there, I'm <a href="https://github.com/kamallahloh" target="_blank">Kamal Lahloh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50"></h2>
 
 <h3>
-A Software Developer at <a href="https://www.linkedin.com/company/general-computers-and-electronics-co/">@GCE</a>, <a href="https://www.meraki-academy.org/">@MERAKI-Academy-Cohort-9</a> graduate, and a Scrum master in the <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
+A Software Developer at <a href="https://www.linkedin.com/company/marshal-travel/">Marshal</a>, Ex.<a href="https://www.linkedin.com/company/general-computers-and-electronics-co/">GCE</a>, <a href="https://www.meraki-academy.org/">MERAKI-Academy-Cohort-9</a> graduate, and a Scrum master in the <a href="https://github.com/MetaBookTeam/MERAKI_Academy_Project_5" >@MetaBookTeam</a>.
 <br/>
 </h3>
 <h3>
